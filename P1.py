@@ -103,28 +103,28 @@ male_products = {
 
 female_products = {
     "FairWarm": [
-        {"name": "Coral Dress", "image": "fairwarm_coral_female.jpg", "link": "https://www.pantaloons.com/p/coral-dress-785374.html?utm_source=chatgpt.com"},
-        {"name": "Beige Solid Top", "image": "fairwarm_beige_female.jpg", "link": "https://www.pantaloons.com/p/beige-solid-top-628876.html?utm_source=chatgpt.com"},
-        {"name": "Peach Printed Dress", "image": "fairwarm_peach_female.jpg", "link": "https://www.pantaloons.com/p/peach-printed-dress-686256.html?utm_source=chatgpt.com"},
-        {"name": "Warm Brown Top", "image": "fairwarm_warmbrown_female.jpg", "link": "https://www.pantaloons.com/p/brown-top-39781983.html?utm_source=chatgpt.com"},
+        {"name": "Coral Dress", "image": "fairwarm_coral_female.png", "link": "https://www.pantaloons.com/p/coral-dress-785374.html?utm_source=chatgpt.com"},
+        {"name": "Beige Solid Top", "image": "fairwarm_beige_female.png", "link": "https://www.pantaloons.com/p/beige-solid-top-628876.html?utm_source=chatgpt.com"},
+        {"name": "Peach Printed Dress", "image": "fairwarm_peach_female.png", "link": "https://www.pantaloons.com/p/peach-printed-dress-686256.html?utm_source=chatgpt.com"},
+        {"name": "Warm Brown Top", "image": "fairwarm_warmbrown_female.png", "link": "https://www.pantaloons.com/p/brown-top-39781983.html?utm_source=chatgpt.com"},
     ],
     "Wheatish": [
-        {"name": "Teal Dress", "image": "wheatish_teal_female.jpg", "link": "https://www.pantaloons.com/p/teal-dress-792368.html?utm_source=chatgpt.com"},
-        {"name": "Plum Top", "image": "wheatish_plum_female.jpg", "link": "https://www.pantaloons.com/p/plum-top-766698.html?utm_source=chatgpt.com"},
-        {"name": "Turquoise Dress", "image": "wheatish_turquoise_female.jpg", "link": "https://www.pantaloons.com/p/turquoise-dress-861734.html?utm_source=chatgpt.com"},
-        {"name": "Grey Dress", "image": "wheatish_grey_female.jpg", "link": "https://www.pantaloons.com/p/grey-dress-803985.html?utm_source=chatgpt.com"},
+        {"name": "Teal Dress", "image": "wheatish_teal_female.png", "link": "https://www.pantaloons.com/p/teal-dress-792368.html?utm_source=chatgpt.com"},
+        {"name": "Plum Top", "image": "wheatish_plum_female.png", "link": "https://www.pantaloons.com/p/plum-top-766698.html?utm_source=chatgpt.com"},
+        {"name": "Turquoise Dress", "image": "wheatish_turquoise_female.png", "link": "https://www.pantaloons.com/p/turquoise-dress-861734.html?utm_source=chatgpt.com"},
+        {"name": "Grey Dress", "image": "wheatish_grey_female.png", "link": "https://www.pantaloons.com/p/grey-dress-803985.html?utm_source=chatgpt.com"},
     ],
     "FairCool": [
-        {"name": "Navy Dress", "image": "faircool_navy_female.jpg", "link": "https://www.pantaloons.com/p/navy-print-ankle-length-ethnic-women-straight-fit-dress-910561.html?utm_source=chatgpt.com"},
-        {"name": "Lavender Dress", "image": "faircool_lavender_female.jpg", "link": "https://www.pantaloons.com/p/lavender-blue-dress-761846.html?utm_source=chatgpt.com"},
-        {"name": "Ice Blue Top", "image": "faircool_iceblue_female.jpg", "link": "https://www.pantaloons.com/p/lavender-blue-top-767994.html?utm_source=chatgpt.com"},
-        {"name": "Charcoal Dress", "image": "faircool_charcoal_female.jpg", "link": "https://www.pantaloons.com/p/charcoal-dress-699056.html?utm_source=chatgpt.com"},
+        {"name": "Navy Dress", "image": "faircool_navy_female.png", "link": "https://www.pantaloons.com/p/navy-print-ankle-length-ethnic-women-straight-fit-dress-910561.html?utm_source=chatgpt.com"},
+        {"name": "Lavender Dress", "image": "faircool_lavender_female.png", "link": "https://www.pantaloons.com/p/lavender-blue-dress-761846.html?utm_source=chatgpt.com"},
+        {"name": "Ice Blue Top", "image": "faircool_iceblue_female.png", "link": "https://www.pantaloons.com/p/lavender-blue-top-767994.html?utm_source=chatgpt.com"},
+        {"name": "Charcoal Dress", "image": "faircool_charcoal_female.png", "link": "https://www.pantaloons.com/p/charcoal-dress-699056.html?utm_source=chatgpt.com"},
     ],
     "Dusky": [
-        {"name": "Maroon Dress", "image": "dusky_maroon_female.jpg", "link": "https://www.pantaloons.com/p/annabelle-maroon-dress-312293.html?utm_source=chatgpt.com"},
-        {"name": "Mustard Dress", "image": "dusky_mustard_female.jpg", "link": "https://www.pantaloons.com/p/mustard-dress-544096.html?utm_source=chatgpt.com"},
-        {"name": "Olive Dress", "image": "dusky_olive_female.jpg", "link": "https://www.pantaloons.com/p/olive-regular-fit-casual-women-dresses-1012698.html?utm_source=chatgpt.com"},
-        {"name": "Gold Dress", "image": "dusky_gold_female.jpg", "link": "https://www.pantaloons.com/p/poly-silk-evening-wear-dress-285374.html?utm_source=chatgpt.com"},
+        {"name": "Maroon Dress", "image": "dusky_maroon_female.png", "link": "https://www.pantaloons.com/p/annabelle-maroon-dress-312293.html?utm_source=chatgpt.com"},
+        {"name": "Mustard Dress", "image": "dusky_mustard_female.png", "link": "https://www.pantaloons.com/p/mustard-dress-544096.html?utm_source=chatgpt.com"},
+        {"name": "Olive Dress", "image": "dusky_olive_female.png", "link": "https://www.pantaloons.com/p/olive-regular-fit-casual-women-dresses-1012698.html?utm_source=chatgpt.com"},
+        {"name": "Gold Dress", "image": "dusky_gold_female.png", "link": "https://www.pantaloons.com/p/poly-silk-evening-wear-dress-285374.html?utm_source=chatgpt.com"},
     ],
 }
 
@@ -278,24 +278,27 @@ else:
             skin_tone = detect_skin_tone(img)
 
             # map brightness-based tones into female keys
-            tone_key = "Dusky" if skin_tone == "Dusky" else "Fair (Warm)"  # fallback mapping
+            tone_key = "Dusky" if skin_tone == "Dusky" else "FairWarm"  # fallback mapping
             if tone_key in female_products:
                 st.markdown("### 👗 Here are some Smart AI picks for you")
                 cols = st.columns(3)
                 for i, item in enumerate(female_products[tone_key]):
                     with cols[i % 3]:
+                        img_path = f"images\\{item['image']}"
                         st.markdown(
                             f"""
                             <a href="{item['link']}" target="_blank">
                                 <div class="card">
+                                    <img src="{img_path}" alt="{item['name']}" style="width:100%; border-radius: 15px; margin-bottom:10px;">
                                     <div class="card-title">{item['name']}</div>
                                     <div class="offer-box">
-                                        <div class="offer-text">Pantaloons Exclusive</div>
+                                        <div class="offer-text">Get it exclusively in Pantaloons</div>
                                     </div>
                                 </div>
                             </a>
                             """,
                             unsafe_allow_html=True,
                         )
+
             else:
                 st.warning("Sorry, no recommendations for this skin tone yet.")
